@@ -1,6 +1,6 @@
 # Aetheria Eatery: A Modern Culinary Experience
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/bogere/vibersdk-restaurant-website)
 
 Aetheria Eatery is a visually stunning, production-ready website for a modern restaurant, featuring a seamless online food ordering system. The application prioritizes a breathtaking user interface and an intuitive user experience, built on Cloudflare's edge network for unparalleled performance. The core of the application is a visually rich, interactive menu where users can browse high-quality images of dishes, filter by various criteria, and manage their orders through a non-intrusive cart drawer. The design is dark, elegant, and sophisticated, using a combination of professional typography, generous spacing, and subtle micro-interactions to create an immersive digital dining experience.
 
@@ -92,7 +92,7 @@ This project is designed for seamless deployment to Cloudflare Pages.
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/bogere/vibersdk-restaurant-website)
 
 ## 🗺️ Project Roadmap
 
